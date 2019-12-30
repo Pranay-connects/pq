@@ -1,0 +1,81 @@
+C# - generics, multithreading, delegates
+
+OOPS concepts - polymorphism, diff between interface and abstract, virtual keyword, generics
+
+ASP.Net - asp.net life cycle, state variables, types of navigating page 
+
+Why angular? What are the advantages of angular from jquery
+How to integrate with .net and mvc
+asp.net core
+
+Why entity framework?  lazy loading
+
+Security implementations with IIS, load balancer
+
+SQL - functions and stored procedures, 
+
+DB performance tuning
+
+Implementation of Dependency Injection Pattern in C# Dependency Injection (DI) is a software design pattern that allow us to develop loosely coupled code. DI is a great way to reduce tight coupling between software components. DI also enables us to better manage future changes and other complexity in our software.
+Windows forms - navigation from one form to another
+
+.Net/MVC and web services.
+1)	What are the types of classes?
+2)	 Difference between abstract class and interface?
+3)	Difference between authorization and authentication.
+4)	Scenario where they will go with  dataset and data reader.
+5)	What is security and vulnerability.
+6)	What is memory management?
+7)	How to handle exception management?
+8)	Difference between using and finally.
+9)	Difference between throw and throw ex.
+10)	What is tryParse and try?
+11)	 Routing in MVC?
+12)	 Explain Ajax and json calls from controller to View.
+13)	Difference between  loose coupling and tight coupling.
+14)	Dependency injections.
+15)	Basis types of binding in entity Framework.
+16)	Address, bind and contract in web services.
+17)	Types of contracts in wed service.
+18)	Difference between SOAP and REST.
+19)	Scenario where generics will be used.
+20)	What is delegate?
+21)	ASP.Net life cycle.
+22)	Types of session management.
+23)	Security implementations with IIS.
+24)	Advancements in MVC and angular than the conventional ASP.NET.
+25)	Ways to navigate from one page to another, when to use what?
+26)	Ways to pass data from one page to another.
+27)	What is multithreading?
+28)Scenarios why we go for Abstraction/interface
+29)GAC , Assemblies , Generations in GAC
+30) Scenarios based on Polymorphism , Encapsulation 
+31)Out / Ref / Yield /Tuple Keywords
+32) Basic knowledge on Design Patterns
+33)ViewBag ,ViewData ,TempData
+34)Dictionary/Hashtable 
+
+
+Back end
+1)	What are the types of joins?
+2)	What is triggers and its real time example.
+3)	Scenarios based question for aggregate functions existing in SQL like (count , Max, having , group by , Sum etc)
+4)	What is dead lock and steps to avoid dead lock.
+5)	What is transactions?
+6)	Basic steps for performance optimization for a query.
+7)	Indexing and its types
+8)	Difference between cluster and non-cluster indexing.
+9)	Steps to fine tune database performance.
+10)	Advancement in Entity Framework over conventional ADO.NET.
+11)	Difference between functions and stored procedures.
+12)Triggers and its use , Different Types
+
+Angular
+Question: What is Angular?
+Question: Define the ng-content Directive?
+Could you explain services in Angular?
+ advantages and disadvantages of using Angular?
+How to generate a class in Angular 7 using CLI?
+the difference between Angular and AngularJS?
+What is SPA (Single Page Application) in Angular?
+What is ngOnInit ()
